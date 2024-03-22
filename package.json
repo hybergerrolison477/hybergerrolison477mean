@@ -1,0 +1,75 @@
+{
+  "name": "hybergerrolison477mean",
+  "version": "1.0.0",
+  "description": "Enhances averaging efficiency, finding median, offering accelerated mean calculation processes for data analysis needs.  ",
+  "main": "average.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+
+
+    "sabarikwa618avg": "^1.0.0",
+    "hybergerrolison477mean": "^1.0.0",
+    "orenifft147fibo": "^1.0.0",
+    "thautmarcelo9atives": "^1.0.0",
+    "ramseurchryst594deri": "^1.0.0",
+
+
+    "axios": "^0.24.0",
+    "express": "^4.17.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.2.0",
+    "jest": "^27.4.7",
+    "babel-eslint": "^10.1.0",
+    "nodemon": "^2.0.15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hybergerrolison477/hybergerrolison477mean.git"
+  },
+  "homepage": "https://github.com/hybergerrolison477/hybergerrolison477mean/blob/main/README.md",
+  "issues": "https://github.com/hybergerrolison477/hybergerrolison477mean/issues",
+  "keywords": [
+    "average",
+    "calculate",
+    "median",
+    "means",
+    "math"
+  ],
+  "author": "hybergerrolison477",
+  "license": "MIT"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
